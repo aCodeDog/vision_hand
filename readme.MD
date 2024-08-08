@@ -1,6 +1,9 @@
 
-# Install 
+# Introduction
 
+This repository implements teleoperation of the inspired hand using Apple Vision Pro
+
+# Install 
 
 ## step 1 -  Install Isaac Gym
 
